@@ -1,5 +1,5 @@
-# XAI-for-bioinformatics
-Codes and supplementary materials for our paper "Explainable AI for Bioinformatics: Methods, Tools, and Applications", submitted to [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically.
+# Explainale AI (XAI) for bioinformatics
+Codes and supplementary materials for our paper "Explainable AI for Bioinformatics: Importance, Methods, Tools, and Applications", submitted to [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically.
 
 ## Paers and books on interpretable ML methods
 We categorize the papers and books based on interpretable ML methods
