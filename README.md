@@ -2,7 +2,7 @@
 Codes and supplementary materials for our paper "Explainable AI for Bioinformatics: Importance, Methods, Tools, and Applications", submitted to [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically.
 
 ## Notebooks
-We provided several interactive jupyter notebooks showing how interpretable ML techniques can be used to improve the interpretability for bioinformatics research use cases. Please note that the notebooks don't accompany the dataset, which is mainly NDA agreements. 
+We provided several interactive Jupyter [notebooks](https://github.com/rezacsedu/XAI-for-bioinformatics/tree/main/notebooks) showing how interpretable ML techniques can be used to improve the interpretability for bioinformatics research use cases. Please note that the notebooks don't accompany the dataset, which is mainly NDA agreements. 
 
 ## Paers and books on interpretable ML methods
 We categorize the papers and books based on interpretable ML methods
